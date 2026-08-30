@@ -1,7 +1,7 @@
 [
   {
   "visibility": "INVISIBLE",
-    "upgrade_skin_enabled": true,
+    "upgrade_skin_enabled": false,
   "min_version": "1.5",
   "app_name": "Yin Tools",
   "dialog_title": "New version available. Please update now!",
