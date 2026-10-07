@@ -2,7 +2,7 @@
   {
   "visibility": "VISIBLE",
     "upgrade_skin_enabled": true,
-  "min_version": "1.6",
+  "min_version": "1.5",
   "app_name": "Yin Tools",
   "dialog_title": "New version available. Please update now!",
   "dialog_message": "versi baru tersedia, harap update sekarang!",
